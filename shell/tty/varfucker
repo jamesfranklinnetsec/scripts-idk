@@ -1,0 +1,4 @@
+#!/bin/bash
+file="/dev/ttys004"
+name=$(cat "$file")
+echo $name > /dev/ttys003
