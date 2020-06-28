@@ -1,0 +1,5 @@
+#!/bin/bash
+for f in * ; do
+	sh isImage.sh $f;
+	done;
+exit 0;
