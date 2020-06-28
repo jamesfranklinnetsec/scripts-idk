@@ -4,8 +4,8 @@ I had a program that did not play nicely with image files saved as capital PNG o
 The lower caseified  files are then compressed into jpeg using the parameters on line 8
 
 ## WARNING
-This is a one way process. I don't provide a way to reverse it, although that would be trivial to do, just read through the code
-
+This is a one way process. the lossless PNGs will be turned into lossy jpgs. Use at your own risk.
+ 
 ## Usage
 run script in folder containing the images and it will convert them.
 
