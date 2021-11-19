@@ -1,0 +1,1 @@
+find . -name .git -execdir git pull \;
